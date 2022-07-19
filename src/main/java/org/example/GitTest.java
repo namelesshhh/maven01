@@ -7,6 +7,5 @@ public class GitTest {
         System.out.println("hello git3 update by hot-fix");
         System.out.println("hello git3 update by hot-fix");
         System.out.println("hello");
-        System.out.println("hello git3 update by hot-fix");
     }
 }
